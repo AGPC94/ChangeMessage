@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChangeMessage</string>
+    <string name="btSendMessage">Enviar mensaje</string>
+    <string name="hintMessage">Escribe aquí el texto</string>
+</resources>
